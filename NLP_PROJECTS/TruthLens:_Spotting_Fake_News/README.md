@@ -1,8 +1,8 @@
-# Fake-news-prediction
+# TruthLens: Spotting Fake News
 # Overview
-## Title: **Fake News Prediction**
+## Title: **TruthLens: Spotting Fake News**
 
-**Overview:** Welcome to the Fake News Prediction project! This project aims to develop a machine learning model to detect and classify fake news articles. By leveraging natural language processing and machine learning techniques, we aim to build a model that can accurately identify deceptive content and help mitigate the spread of misinformation. This analysis can assist in maintaining the integrity of information and promoting informed decision-making.
+**Overview:** Welcome to the TruthLens: Spotting Fake News project! This project aims to develop a machine learning model to detect and classify fake news articles. By leveraging natural language processing and machine learning techniques, we aim to build a model that can accurately identify deceptive content and help mitigate the spread of misinformation. This analysis can assist in maintaining the integrity of information and promoting informed decision-making.
 
 ## Aim
 Your task in this project is to create a machine learning model that predicts whether a news article is fake or real based on its content. Accurate predictions can help in identifying misleading information, improving content quality, and ensuring that credible news reaches the public.
