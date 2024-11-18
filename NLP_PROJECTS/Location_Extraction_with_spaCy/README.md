@@ -6,7 +6,7 @@
 This project focuses on developing a machine learning model using spaCy to identify and extract location mentions (such as place names or street names) from microblogging posts like those on X (formerly Twitter). In disaster scenarios, location cues from these posts are crucial for effective response. Given the high volume of posts, manual extraction is impractical, and this model aims to automate the process, enabling authorities to quickly respond to critical needs.
 
 ## Aim
-Your task in this project is to create a machine learning model that recognizes location mentions in microblogging posts. Accurate identification of location information can aid disaster response teams by providing essential location data for decision-making.
+Your task in this project is to create a Natural language Processing  model that recognizes location mentions in microblogging posts. Accurate identification of location information can aid disaster response teams by providing essential location data for decision-making.
 
 ## Importance of the Model
 - **Information Integrity:** Helps ensure accurate location information is identified from posts to facilitate rapid disaster response.
